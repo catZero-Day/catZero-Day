@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=catZero-Day&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=Etudiant%20en%20securite%20des%20systemes%20informatiques&descAlignY=55&descSize=18&descColor=c9d1d9&animation=fadeIn" width="100%"/>
 
-<a href="https://tryhackme.com/p/catZero-Day">
-  <img src="https://img.shields.io/badge/TryHackMe-catZero--Day-212C42?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117" />
+<a href="https://tryhackme.com/p/catZeroDay">
+  <img src="https://img.shields.io/badge/TryHackMe-catZeroDay-212C42?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=catZero-Day&label=Profile%20Views&color=00ff41&style=for-the-badge&base=0" />
 
@@ -82,28 +82,11 @@ B3 : Spécialisation (en cours)
 
 <br/>
 
-## `$` ./stats.sh --github
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=catZero-Day&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=catZero-Day&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catZero-Day&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=catZero-Day&theme=react-dark&bg_color=0D1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
 ## `$` cat contact.txt
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/catZero-Day">
+<a href="https://tryhackme.com/p/catZeroDay">
   <img src="https://img.shields.io/badge/TryHackMe-Voir%20mon%20profil-212C42?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117" />
 </a>
 <a href="https://github.com/catZero-Day">
