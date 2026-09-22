@@ -66,18 +66,18 @@
 ## `$` cat parcours.txt
 
 ```
-🎓 Haute École Henallux : Bachelier en sécurité des systèmes informatiques
+🎓 Haute École Henallux : Bachelier en sécurité des systèmes
 
 B1 : Bases
   Architecture systèmes, réseaux, programmation C, cybersécurité (introduction)
 
 B2 : Approfondissement
   Administration Linux, cryptographie, bases de données, conteneurs
-  & virtualisation, sécurité OS / Web / réseaux, scripting système,
+  & virtualisation, python, sécurité OS / Web / réseaux, scripting système,
   analyse de logs
 
 B3 : Spécialisation (en cours)
-  AppSec, OffSec, DefSec, DFIR, gouvernance de la sécurité
+  AppSec, OffSec, DefSec, DFIR, gouvernance
 ```
 
 <br/>
