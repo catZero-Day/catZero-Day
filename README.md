@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=catZero-Day&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=Etudiant%20en%20securite%20des%20systemes%20&descAlignY=55&descSize=18&descColor=c9d1d9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=catZero-Day&fontSize=60&fontColor=00ff41&fontAlignY=35&descColor=c9d1d9&animation=fadeIn" width="100%"/>
 
 <a href="https://tryhackme.com/p/catZeroDay">
   <img src="https://img.shields.io/badge/TryHackMe-catZeroDay-212C42?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117" />
