@@ -1,9 +1,121 @@
-<h1 align="center">Hi 👋, I'm Bastos</h1>
-<h3 align="center">Cybersecurity student</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=catZero-Day&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=Etudiant%20en%20securite%20des%20systemes%20informatiques&descAlignY=55&descSize=18&descColor=c9d1d9&animation=fadeIn" width="100%"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<a href="https://tryhackme.com/p/catZero-Day">
+  <img src="https://img.shields.io/badge/TryHackMe-catZero--Day-212C42?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=catZero-Day&label=Profile%20Views&color=00ff41&style=for-the-badge&base=0" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=whoami+%3E%3E+catZero-Day;etudiant+en+securite+des+systemes+%40+Henallux;B3+-+securite+informatique&font=Fira+Code&center=true&width=650&height=45&color=00ff41&vCenter=true&size=22&background=0D111700&pause=1400" />
+
+</div>
+
+<br/>
+
+## `$` whoami
+
+```bash
+> Étudiant en sécurité des systèmes informatiques à Henallux, actuellement en 3e année (B3).
+```
+
+<br/>
+
+## `$` cat skills.txt
+
+<div align="center">
+
+**Langages & scripting**
+
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**Systèmes & infrastructure**
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" />
+
+**Sécurité & supervision**
+
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-3B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+**Domaines**
+
+<img src="https://img.shields.io/badge/AppSec-1a1a2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OffSec-1a1a2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DefSec-1a1a2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DFIR-1a1a2e?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+## `$` cat parcours.txt
+
+```
+🎓 Haute École Henallux : Bachelier en sécurité des systèmes informatiques
+
+B1 : Bases
+  Architecture systèmes, réseaux, programmation C, cybersécurité (introduction)
+
+B2 : Approfondissement
+  Administration Linux, cryptographie, bases de données, conteneurs
+  & virtualisation, sécurité OS / Web / réseaux, scripting système,
+  analyse de logs
+
+B3 : Spécialisation (en cours)
+  AppSec, OffSec, DefSec, DFIR, gouvernance de la sécurité
+```
+
+<br/>
+
+## `$` ./stats.sh --github
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=catZero-Day&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=catZero-Day&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catZero-Day&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=catZero-Day&theme=react-dark&bg_color=0D1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## `$` cat contact.txt
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/catZero-Day">
+  <img src="https://img.shields.io/badge/TryHackMe-Voir%20mon%20profil-212C42?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117" />
+</a>
+<a href="https://github.com/catZero-Day">
+  <img src="https://img.shields.io/badge/GitHub-catZero--Day-181717?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
