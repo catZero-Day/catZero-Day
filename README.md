@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=whoami+%3E%3E+catZero-Day;etudiant+en+securite+des+systemes+%40+Henallux;B3+-+securite+informatique&font=Fira+Code&center=true&width=650&height=45&color=00ff41&vCenter=true&size=22&background=0D111700&pause=1400" />
+<img src="https://readme-typing-svg.demolab.com/?lines=whoami+%3E%3E"/>
 
 </div>
 
