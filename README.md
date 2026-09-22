@@ -9,10 +9,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=whoami+%3E%3E"/>
-
-</div>
-
 <br/>
 
 ## `$` whoami
